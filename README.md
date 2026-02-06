@@ -3,7 +3,7 @@
 ![Banner de Gato](https://i.pinimg.com/1200x/bd/b9/6e/bdb96e518c92bef22fd9e5b6a102ec16.jpg)
 
 ### 💻 Sobre mí
-Soy estudiante de **Ingeniería en Sistemas Computacionales** en **ESCOM - IPN**. Me apasiona el desarrollo de software y la resolución de problemas mediante tecnología. Vengo de una formación técnica en **Máquinas con Sistemas Automatizados (CECyT)**, lo que me dio una base sólida en lógica y hardware.
+Soy estudiante de **Ingeniería en Sistemas Computacionales** en **ESCOM - IPN**. Me apasiona el desarrollo de software y la resolución de problemas mediante tecnología.
 
 ---
 
