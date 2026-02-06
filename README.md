@@ -1,16 +1,32 @@
-## Hi there 👋
+# ¡Hola! Soy Jessica Hernández 👋
 
-<!--
-**JessHHdez/JessHHdez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner de Gato](https://i.pinimg.com/1200x/bd/b9/6e/bdb96e518c92bef22fd9e5b6a102ec16.jpg)
 
-Here are some ideas to get you started:
+### 💻 Sobre mí
+Soy estudiante de **Ingeniería en Sistemas Computacionales** en **ESCOM - IPN**. Me apasiona el desarrollo de software y la resolución de problemas mediante tecnología. Vengo de una formación técnica en **Máquinas con Sistemas Automatizados (CECyT)**, lo que me dio una base sólida en lógica y hardware.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 En lo que estoy trabajando:
+- 🌱 Aprendiendo profundamente **Kotlin** para desarrollo Android y mejorando en **Python**.
+- 🛠️ Trabajando en mi **Trabajo Terminal**: Una app de geolocalización con funciones sociales y de emergencia.
+
+### 🛠️ Tecnologías y Herramientas:
+- **Lenguajes:** Python, C, PHP, Kotlin, Java (Básico).
+- **Web:** HTML5, CSS3, SQL (PostgreSQL).
+- **Móvil:** Android Studio.
+- **Herramientas:** Git, Paqueteria Office, Google Colab.
+
+### ✨ Algunos de mis proyectos:
+- **Dulcería Web:** Sistema local con PHP y PostgreSQL para gestión de inventarios.
+- **App de Recetas:** Aplicación nativa en Android Studio.
+- **Sensor de Humedad:** Integración de hardware con visualización en app móvil.
+
+---
+
+### 📫 Contacto:
+- **Correo:** hernandez.hdez.jessica@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/hernandezhjessica/
+- ⚡ **Dato curioso:** ¡Me encantan los gatos! (como habrás notado por el banner 🐱).
+
+---
