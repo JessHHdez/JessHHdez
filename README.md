@@ -27,6 +27,6 @@ Soy estudiante de **Ingeniería en Sistemas Computacionales** en **ESCOM - IPN**
 ### 📫 Contacto:
 - **Correo:** hernandez.hdez.jessica@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/hernandezhjessica/
-- ⚡ **Dato curioso:** ¡Me encantan los gatos! (como habrás notado por el banner 🐱).
+- ⚡ **Dato:** ¡Me encantan los gatos! (como habrás notado por el banner 🐱).
 
 ---
