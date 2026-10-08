@@ -17,7 +17,7 @@ Soy estudiante de **Ingeniería en Sistemas Computacionales** en **ESCOM - IPN**
 - **Móvil:** Android Studio.
 - **Herramientas:** Git, Paqueteria Office, Google Colab.
 
-### ✨ Algunos de mis proyectos:
+### Algunos de mis proyectos:
 - **Dulcería Web:** Sistema local con PHP y PostgreSQL para gestión de inventarios.
 - **App de Recetas:** Aplicación nativa en Android Studio.
 - **Sensor de Humedad:** Integración de hardware con visualización en app móvil.
